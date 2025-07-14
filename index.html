@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerenciador de Nomes ✏️</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="lista.png" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Gerenciador de Nomes ✏️</h1>
+      <div class="form">
+        <input type="text" id="nomeInput" placeholder="Digite um nome" />
+        <button onclick="adicionarNome()">Adicionar</button>
+      </div>
+      <div class="btn-es">
+        <button onclick="Listar()">Listar</button>
+        <button onclick="Atualizar()">Atualizar</button>
+        <button onclick="Excluir()">Excluir</button>
+      </div>
+    </div>
+    <div class="container2">
+        <h1 class="lista">Lista de Nomes:</h1>
+        <p id="PMsg"></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
