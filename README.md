@@ -31,7 +31,7 @@ O **Name List Manager** é uma aplicação web simples e divertida para **gerenc
   
 ---
 
-## 📌 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT. 
 
@@ -43,4 +43,4 @@ Este projeto está sob a licença MIT.
 
 **Desenvolvido com 💖 e muito café por Thuysa Monique Luvison da Rosa**
 
-**[Name List Manager](https://name-list-manager-five.vercel.app/)**
+📌 **[Name List Manager](https://name-list-manager-five.vercel.app/)** 📌
