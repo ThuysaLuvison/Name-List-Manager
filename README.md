@@ -27,4 +27,4 @@ O **Name List Manager** é uma aplicação web simples e divertida para **gerenc
 
 Desenvolvido com 💖 por Thuysa Monique Luvison da Rosa
 
-[Name List Manager](name-list-manager-five.vercel.app)
+[Name List Manager](https://name-list-manager-five.vercel.app/)
