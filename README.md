@@ -1,7 +1,10 @@
 # 📝 Name List Manager
 
 Bem-vindo ao **Name List Manager**!
-Este projeto é uma aplicação web simples e divertida para **gerenciar nomes**, feita com **HTML, CSS e JavaScript puro**. É possível adicionar, listar, atualizar e excluir nomes dinamicamente, tudo com uma interface colorida e intuitiva.
+
+Este projeto é uma aplicação web simples e divertida para **gerenciar nomes**, feita com **HTML, CSS e JavaScript puro**. 
+
+É possível adicionar, listar, atualizar e excluir nomes dinamicamente, tudo com uma interface colorida e intuitiva.
 
 ---
 
