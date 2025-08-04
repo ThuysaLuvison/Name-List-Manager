@@ -1,6 +1,6 @@
 # 📝 Name List Manager
 
-Bem-vindo ao **Name List Manager**!
+Bem-vindo(a) ao **Name List Manager**!
 
 Este projeto é uma aplicação web simples e divertida para **gerenciar nomes**, feita com **HTML, CSS e JavaScript puro**. 
 
